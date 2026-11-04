@@ -18,8 +18,8 @@
 "ev": 0.0271,
 "grupo": "marginal",
 "first_seen": "2026-11-04T23:31+00:00",
-"last_fair": 0.1902,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_fair": 0.1815,
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -43,7 +43,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.2866,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -67,7 +67,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.268,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -91,7 +91,7 @@
 "grupo": "marginal",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.6147,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -115,7 +115,7 @@
 "grupo": "marginal",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.4565,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -139,7 +139,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.5018,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -163,7 +163,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.2968,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -187,7 +187,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.2877,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -211,7 +211,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.1089,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -235,7 +235,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.5836,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -259,7 +259,7 @@
 "grupo": "marginal",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.2275,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -283,7 +283,7 @@
 "grupo": "valor",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.134,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -307,7 +307,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.4465,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -331,7 +331,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.2453,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -355,7 +355,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.2003,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -379,7 +379,7 @@
 "grupo": "marginal",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.7592,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -403,7 +403,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.307,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -427,7 +427,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.2455,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -451,7 +451,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.2692,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -475,7 +475,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.5479,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -499,7 +499,7 @@
 "grupo": "marginal",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.295,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -523,7 +523,7 @@
 "grupo": "marginal",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.2569,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -547,7 +547,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.1897,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -571,7 +571,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.5768,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -595,7 +595,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.1215,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -619,7 +619,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.1106,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -643,7 +643,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.3102,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -667,7 +667,7 @@
 "grupo": "valor",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.215,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -691,7 +691,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.184,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -715,7 +715,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.4047,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -739,7 +739,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.1381,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -763,7 +763,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.1055,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 },
@@ -787,7 +787,7 @@
 "grupo": "desatualizada",
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.1229,
-"last_seen": "2026-11-04T23:31+00:00",
+"last_seen": "2026-11-04T23:40+00:00",
 "result": null,
 "score": null
 }
