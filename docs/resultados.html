@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="pt-PT"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Bet Advisor · Resultados</title><meta name="description" content="O que o painel apostaria comparado com o que aconteceu."><meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="app.css"></head>
+<body data-page="resultados"><header><nav><span class="logo">Bet Advisor</span><a href="index.html">Melhores oportunidades</a><a href="combinadas.html">Combinadas</a><a href="resultados.html" class="on" aria-current="page">Resultados</a></nav></header>
+<main>
+  <div><h1>Resultados</h1><p class="sub">O que o painel apostaria comparado com o que aconteceu. "X de Y" quer dizer: acertou X apostas em Y apostas feitas.</p></div>
+  <section style="display:flex;flex-direction:column;gap:12px">
+    <div><h2>Ao vivo: desde que o painel está ligado</h2><p class="sub"><span id="liveDesde"></span> Cada aposta assinalada fica registada com a odd do momento e é resolvida depois do jogo. Só conta o resultado ao fim de 90 minutos.</p></div>
+    <div class="kpis" id="liveKpis"></div>
+    <h2 style="font-size:16px">Últimos jogos terminados</h2>
+    <div class="card tablewrap" id="liveUlt"></div>
+  </section>
+  <section style="display:flex;flex-direction:column;gap:12px">
+    <div><h2>Teste com jogos passados</h2><p class="sub">A mesma regra aplicada a 3603 apostas no resultado final (1X2) das 6 ligas, de agosto de 2014 a janeiro de 2026, com as odds das casas inglesas da altura.</p></div>
+    <div class="kpis"><div class="card pad" style="display:flex;flex-direction:column;gap:10px"><strong style="font-size:17px">Vale a pena</strong>
+<div><div style="font-size:13px;color:var(--muted);font-weight:600">Acertadas</div><div class="mono" style="font-size:30px;font-weight:600">52<span style="color:var(--muted);font-weight:400"> de 239</span></div>
+<div class="small">Seria normal acertar 54,5</div></div>
+<div class="small" style="font-size:13px">Lucro por cada 100 € apostados: <strong class="mono">+10,00 €</strong><br>Apanhou odd melhor do que a final: <strong>64%</strong></div>
+<div class="small">O lucro pode ser sorte: com tão poucas apostas, o resultado real pode estar entre −32 € e +69 €.</div></div><div class="card pad" style="display:flex;flex-direction:column;gap:10px"><strong style="font-size:17px">Por pouco</strong>
+<div><div style="font-size:13px;color:var(--muted);font-weight:600">Acertadas</div><div class="mono" style="font-size:30px;font-weight:600">89<span style="color:var(--muted);font-weight:400"> de 282</span></div>
+<div class="small">Seria normal acertar 95,1</div></div>
+<div class="small" style="font-size:13px">Lucro por cada 100 € apostados: <strong class="mono">−9,90 €</strong><br>Apanhou odd melhor do que a final: <strong>51%</strong></div>
+<div class="small">Não compensou. Por isso não é recomendação.</div></div><div class="card pad" style="display:flex;flex-direction:column;gap:10px"><strong style="font-size:17px">Odd desatualizada</strong>
+<div><div style="font-size:13px;color:var(--muted);font-weight:600">Acertadas</div><div class="mono" style="font-size:30px;font-weight:600">1181<span style="color:var(--muted);font-weight:400"> de 3082</span></div>
+<div class="small">Seria normal acertar 1172,3</div></div>
+<div class="small" style="font-size:13px">Lucro por cada 100 € apostados: <strong class="mono">+0,50 €</strong><br>Apanhou odd melhor do que a final: <strong>68%</strong></div>
+<div class="small">Quase sempre a odd desceu antes do jogo: sinal de que era mesmo boa, mas o lucro foi quase nulo.</div></div></div>
+  </section>
+  <section style="display:flex;flex-direction:column;gap:12px">
+    <div><h2>Há algum padrão nas apostas acertadas?</h2><p class="sub">Procurámos 35 padrões (tipo de odd, liga, casa, dia da semana, movimento da odd). Depois de corrigir para o facto de testarmos tantos ao mesmo tempo, <strong>nenhum é suficientemente forte para não ser sorte</strong>. Estes são os mais marcados:</p></div>
+    <div class="card tablewrap"><table style="min-width:720px"><thead><tr><th>Padrão</th><th class="r">Acertadas</th><th class="r">Seria normal</th><th>O que quer dizer</th></tr></thead><tbody><tr><td><strong>Odds de 8 ou mais</strong></td><td class="r mono">32 de 552</td><td class="r mono">46,0</td><td>Acertaram bem menos do que o esperado. As casas pagam pouco pelos grandes azarões: por isso as combinadas usam odds até 8.</td></tr><tr><td><strong>Odds abaixo de 2</strong></td><td class="r mono">648 de 961</td><td class="r mono">627,9</td><td>Os favoritos acertaram um pouco mais do que o esperado, mas a diferença pode ser sorte.</td></tr><tr><td><strong>A odd desceu até ao jogo</strong></td><td class="r mono">980 de 2396</td><td class="r mono">956,3</td><td>Quando o mercado "concorda" connosco, acerta ligeiramente mais.</td></tr><tr><td><strong>A odd subiu até ao jogo</strong></td><td class="r mono">341 de 1206</td><td class="r mono">365,3</td><td>Quando o mercado "discorda", acerta menos.</td></tr></tbody></table></div>
+  </section>
+  <p class="foot">Painel de estudo, não é aconselhamento financeiro. A "hipótese real" vem das odds da Pinnacle sem a margem da casa. Apostar envolve risco de perder dinheiro; joga só o que podes perder. Linha de apoio: SOS Jogo, jogoresponsavel.pt.</p>
+
+</main><script src="app.js"></script></body></html>

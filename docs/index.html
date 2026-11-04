@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="pt-PT"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Bet Advisor</title><meta name="description" content="Melhores apostas dos próximos dias, comparadas com a hipótese real."><meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="app.css"></head>
+<body data-page="jornada"><header><nav><span class="logo">Bet Advisor</span><a href="index.html" class="on" aria-current="page">Melhores oportunidades</a><a href="combinadas.html">Combinadas</a><a href="resultados.html">Resultados</a></nav></header>
+<main>
+  <div><h1>Melhores oportunidades</h1><p class="sub" id="gen">A carregar…</p></div>
+  <section class="card filters" id="filters" aria-label="Filtros"></section>
+  <div id="notes" style="display:flex;flex-direction:column;gap:8px"></div>
+  <section class="kpis" id="kpis"></section>
+  <section style="display:flex;flex-direction:column;gap:10px">
+    <h2>Top 10, da maior para a menor vantagem</h2>
+    <div class="card tablewrap" id="top"></div>
+  </section>
+  <section class="card pad help">
+    <h2 style="margin-bottom:10px">Como ler</h2>
+    <p><strong>Hipótese real</strong>: quantas vezes em 100 o resultado deve acontecer, segundo as odds da Pinnacle sem margem. É a melhor estimativa que existe.</p>
+    <p><strong>Odd mínima para compensar</strong>: abaixo desta odd, a aposta perde dinheiro a longo prazo.</p>
+    <p><strong>Ganho esperado por 100 €</strong>: quanto ganharias, em média, por cada 100 € se fizesses muitas apostas iguais. Numa só aposta ganhas ou perdes tudo.</p>
+    <div class="rules" style="margin-top:6px"><span><span class="chip c-valor">Vale a pena</span> ganho de 5 € ou mais</span><span><span class="chip c-marginal">Por pouco</span> entre 2 € e 5 €</span><span><span class="chip c-desatualizada">Odd desatualizada</span> só uma casa dá esta odd; costuma descer antes do jogo</span><span><span class="chip c-desac">Desaconselhado</span> tipo de aposta ainda sem teste suficiente</span></div>
+  </section>
+  <p class="foot">Painel de estudo, não é aconselhamento financeiro. A "hipótese real" vem das odds da Pinnacle sem a margem da casa. Apostar envolve risco de perder dinheiro; joga só o que podes perder. Linha de apoio: SOS Jogo, jogoresponsavel.pt.</p>
+</main><script src="app.js"></script></body></html>

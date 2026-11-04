@@ -1,0 +1,38 @@
+name: Atualizar painel
+
+on:
+  schedule:
+    # segunda, quinta e sábado às 06:17 UTC (antes das jornadas e das noites europeias)
+    - cron: "17 6 * * 1,4,6"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: painel
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Correr o motor
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          ODDSPAPI_KEY: ${{ secrets.ODDSPAPI_KEY }}
+        run: python engine/build.py
+      - name: Guardar dados
+        run: |
+          git config user.name "bet-advisor-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data docs/data engine/participants.json
+          if git diff --cached --quiet; then echo "Sem alterações"; exit 0; fi
+          git commit -m "Painel atualizado $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git pull --rebase
+          git push

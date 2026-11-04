@@ -1,0 +1,56 @@
+:root{--ink:#101820;--muted:#4A5563;--line:#D9DEE4;--line2:#EEF1F4;--bg:#F3F5F7;--brand:#0B4F6C;--good:#0B6E4F;--warn:#8A5A00;--bad:#8C2F1D}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:'IBM Plex Sans',system-ui,sans-serif}
+a{color:var(--brand)}a:hover{color:#08384D}
+.mono{font-family:'IBM Plex Mono',monospace}
+header{background:var(--ink);color:#fff}
+header nav{max-width:1200px;margin:0 auto;padding:14px 24px;display:flex;flex-wrap:wrap;align-items:center;gap:8px 28px}
+header .logo{font-weight:700;font-size:18px}
+header nav a{color:#C9D2DC;text-decoration:none;font-size:14px;padding:12px 0}
+header nav a.on{color:#fff;font-weight:600;border-bottom:2px solid #5FC4A3}
+main{max-width:1200px;margin:0 auto;padding:32px 24px 56px;display:flex;flex-direction:column;gap:20px}
+h1{margin:0;font-size:30px}
+h2{margin:0;font-size:18px}
+.sub{margin:6px 0 0;font-size:15px;color:var(--muted);line-height:1.5}
+.card{background:#fff;border:1px solid var(--line);border-radius:10px}
+.pad{padding:18px 22px}
+.filters{padding:16px 20px;display:flex;flex-direction:column;gap:16px}
+.frow{display:flex;flex-wrap:wrap;gap:16px 32px}
+.fgroup{display:flex;flex-direction:column;gap:6px}
+.flabel{font-size:12px;font-weight:600;color:var(--muted)}
+.btns{display:flex;flex-wrap:wrap;gap:6px}
+.btn{min-height:44px;padding:0 14px;border:1px solid #C3CAD3;border-radius:8px;background:#fff;color:var(--ink);font:inherit;font-size:14px;cursor:pointer}
+.btn[aria-pressed=true]{background:var(--brand);border-color:var(--brand);color:#fff;font-weight:600}
+.note{margin:0;padding:12px 16px;border-radius:8px;font-size:14px;line-height:1.5}
+.note.info{background:#E3EEF4;color:var(--brand)}
+.note.warn{background:#FFF1D6;color:#7A4F00}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:12px}
+.kpi{padding:16px 18px;display:flex;flex-direction:column;gap:4px}
+.kpi .k{font-size:13px;color:var(--muted);font-weight:600}
+.kpi .v{font-family:'IBM Plex Mono',monospace;font-size:26px;font-weight:600}
+.kpi .v.txt{font-family:inherit;font-size:20px;font-weight:700}
+.kpi .s{font-size:13px;color:var(--muted)}
+.tablewrap{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th{text-align:left;color:var(--muted);font-size:12px;font-weight:600;padding:12px 14px;border-bottom:1px solid var(--line)}
+td{padding:12px 14px;border-bottom:1px solid var(--line2);vertical-align:top}
+.r{text-align:right}
+.small{font-size:12px;color:var(--muted);margin-top:2px}
+.chip{display:inline-block;padding:3px 10px;border-radius:999px;font-size:12px;font-weight:700}
+.c-valor{background:#E2F3EC;color:var(--good)}.c-marginal{background:#FFF1D6;color:#7A4F00}
+.c-desatualizada{background:#E3EEF4;color:var(--brand)}.c-nada{background:var(--line2);color:var(--muted)}
+.c-desac{background:#F1E4E2;color:var(--bad)}
+.rules{display:flex;flex-wrap:wrap;gap:8px}
+.rules span{padding:6px 12px;border-radius:999px;background:var(--line2);font-size:13px}
+.split{display:flex;flex-wrap:wrap;gap:20px;align-items:flex-start}
+.split>.grow{flex:999 1 520px;min-width:0}
+.dark{flex:1 1 300px;background:var(--ink);color:#fff;border-radius:10px;padding:20px 22px;display:flex;flex-direction:column;gap:14px}
+.dark .g{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.dark .k{font-size:12px;color:#C9D2DC}.dark .v{font-family:'IBM Plex Mono',monospace;font-size:24px;font-weight:600}
+.dark p{margin:0;font-size:14px;color:#C9D2DC;line-height:1.55}
+.badge-ok{align-self:flex-start;padding:4px 12px;border-radius:999px;font-size:13px;font-weight:700;background:var(--good);color:#fff}
+.badge-no{align-self:flex-start;padding:4px 12px;border-radius:999px;font-size:13px;font-weight:700;background:#5A2A21;color:#FFD3C9}
+.empty{border:1px dashed #C3CAD3;border-radius:10px;padding:20px;background:#F8F9FB}
+.help p{margin:0 0 8px;font-size:14px;line-height:1.55}
+.foot{font-size:12px;color:var(--muted);line-height:1.5}
+@media (max-width:640px){main{padding:24px 16px 40px}h1{font-size:24px}}
