@@ -20,8 +20,8 @@
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.1716,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 0,
+"score": "1-2"
 },
 "intl|5c87852253fd11eea5d34ad723356607|1X2|Empate": {
 "src": "intl",
@@ -44,8 +44,8 @@
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.2859,
 "last_seen": "2026-11-05T14:44+00:00",
-"result": null,
-"score": null
+"result": 0,
+"score": "1-0"
 },
 "intl|3a4608abdf257d2a0024b944757d9dc9|1X2|Vitória Sunderland": {
 "src": "intl",
@@ -68,8 +68,8 @@
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.2544,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 1,
+"score": "1-0"
 },
 "intl|0cfbab01e152f81e34f9014e02c7eb79|1X2|Vitória Liverpool": {
 "src": "intl",
@@ -92,8 +92,8 @@
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.63,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 1,
+"score": "1-3"
 },
 "intl|b0a4b5448a7e02d9ad1eaa817599fff0|1X2|Vitória Manchester United": {
 "src": "intl",
@@ -116,8 +116,8 @@
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.4563,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 0,
+"score": "4-4"
 },
 "intl|9dd0014685fd62d9b2890d7c33a8c9ab|1X2|Vitória Sevilla": {
 "src": "intl",
@@ -140,8 +140,8 @@
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.5018,
 "last_seen": "2026-11-05T14:44+00:00",
-"result": null,
-"score": null
+"result": 0,
+"score": "0-0"
 },
 "intl|262c2c99c38456b8a70cb9daa32f2f6d|1X2|Vitória Deportivo La Coruña": {
 "src": "intl",
@@ -164,8 +164,8 @@
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.3151,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 0,
+"score": "0-0"
 },
 "intl|262c2c99c38456b8a70cb9daa32f2f6d|1X2|Empate": {
 "src": "intl",
@@ -188,8 +188,8 @@
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.2983,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 1,
+"score": "0-0"
 },
 "intl|5b386dfdf6f76705116fbb4120ee8493|1X2|Vitória Valencia": {
 "src": "intl",
@@ -212,8 +212,8 @@
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.0757,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 0,
+"score": "0-3"
 },
 "intl|339a6465fa5153fd8f31e487cf557cf0|1X2|Vitória Real Sociedad": {
 "src": "intl",
@@ -236,8 +236,8 @@
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.5645,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 1,
+"score": "1-0"
 },
 "intl|0d2e199bfba0db42871696c10037bad3|1X2|Vitória Levante": {
 "src": "intl",
@@ -260,8 +260,8 @@
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.2341,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 0,
+"score": "0-0"
 },
 "intl|fe97f5adf397dd6b0a8a9e0a5272f307|1X2|Vitória FSV Mainz 05": {
 "src": "intl",
@@ -284,8 +284,8 @@
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.0962,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 0,
+"score": "1-2"
 },
 "intl|4ca4c7a2a1c15e9121f9a7eaa7f42ddb|1X2|Vitória Eintracht Frankfurt": {
 "src": "intl",
@@ -308,8 +308,8 @@
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.4104,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 0,
+"score": "2-2"
 },
 "intl|4ca4c7a2a1c15e9121f9a7eaa7f42ddb|1X2|Empate": {
 "src": "intl",
@@ -332,8 +332,8 @@
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.2541,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 1,
+"score": "2-2"
 },
 "intl|716d6e3f3e91c47a6efaa2e93d570533|1X2|Vitória Werder Bremen": {
 "src": "intl",
@@ -356,8 +356,8 @@
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.2612,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 0,
+"score": "1-0"
 },
 "intl|f110107bca066ac1a598c89661c88fa3|1X2|Vitória AS Roma": {
 "src": "intl",
@@ -380,8 +380,8 @@
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.7381,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 1,
+"score": "3-0"
 },
 "intl|23bf8ea47358ef82f65aa7398a2b3921|1X2|Vitória Lazio": {
 "src": "intl",
@@ -404,8 +404,8 @@
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.321,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 0,
+"score": "1-1"
 },
 "intl|657fd1ac35832f65fcc6feba93970e10|1X2|Vitória Como": {
 "src": "intl",
@@ -428,8 +428,8 @@
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.2609,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 0,
+"score": "2-0"
 },
 "intl|7f50eb7deaebfbcd45c3f4e7cd3724e4|1X2|Vitória Fiorentina": {
 "src": "intl",
@@ -452,8 +452,8 @@
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.2754,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 0,
+"score": "2-2"
 },
 "intl|8553a80cf1ae5cbe3e7a69b76ce8167f|1X2|Vitória Paris FC": {
 "src": "intl",
@@ -476,8 +476,8 @@
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.5692,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 1,
+"score": "0-1"
 },
 "intl|4288fbe018e6e6fb223e389bcf3e57dd|1X2|Vitória Lille": {
 "src": "intl",
@@ -500,8 +500,8 @@
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.2909,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 1,
+"score": "1-2"
 },
 "intl|4288fbe018e6e6fb223e389bcf3e57dd|1X2|Empate": {
 "src": "intl",
@@ -524,8 +524,8 @@
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.2669,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 0,
+"score": "1-2"
 },
 "intl|c468a7bc1110c030b62f381e3a480145|1X2|Vitória Vitória SC": {
 "src": "intl",
@@ -548,8 +548,8 @@
 "first_seen": "2026-11-04T23:31+00:00",
 "last_fair": 0.1721,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 0,
+"score": "1-2"
 },
 "intl|d6ef4964addd663baed90f8f19fda1d3|1X2|Vitória Real Sociedad": {
 "src": "intl",
@@ -812,8 +812,8 @@
 "first_seen": "2026-11-05T14:44+00:00",
 "last_fair": 0.4748,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 0,
+"score": "1-1"
 },
 "intl|81ad04996f63fb60b494d243b13ac586|1X2|Vitória Villarreal": {
 "src": "intl",
@@ -836,8 +836,8 @@
 "first_seen": "2026-11-05T14:44+00:00",
 "last_fair": 0.6834,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 1,
+"score": "2-0"
 },
 "intl|c1b9696d88719cb8832d794b986cdd68|1X2|Vitória SC Freiburg": {
 "src": "intl",
@@ -860,8 +860,8 @@
 "first_seen": "2026-11-05T14:44+00:00",
 "last_fair": 0.6522,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 1,
+"score": "2-0"
 },
 "intl|f7b240389fa5ec055c58a48ab153dcdd|1X2|Vitória Troyes": {
 "src": "intl",
@@ -884,8 +884,8 @@
 "first_seen": "2026-11-05T14:44+00:00",
 "last_fair": 0.0552,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 0,
+"score": "1-0"
 },
 "intl|cb7170b1b0e68a09be62b7a0fcb8d268|1X2|Vitória Ferencváros TC": {
 "src": "intl",
@@ -1100,8 +1100,8 @@
 "first_seen": "2026-11-07T13:11+00:00",
 "last_fair": 0.2626,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 1,
+"score": "1-1"
 },
 "intl|79ed3df594d7b352ef027128b1ba5d0a|1X2|Empate": {
 "src": "intl",
@@ -1124,8 +1124,8 @@
 "first_seen": "2026-11-07T13:11+00:00",
 "last_fair": 0.2558,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 0,
+"score": "1-2"
 },
 "intl|339a6465fa5153fd8f31e487cf557cf0|1X2|Vitória Rayo Vallecano": {
 "src": "intl",
@@ -1148,8 +1148,8 @@
 "first_seen": "2026-11-07T13:11+00:00",
 "last_fair": 0.2088,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 0,
+"score": "1-0"
 },
 "intl|fe97f5adf397dd6b0a8a9e0a5272f307|1X2|Vitória Bayern Munich": {
 "src": "intl",
@@ -1172,8 +1172,8 @@
 "first_seen": "2026-11-07T13:11+00:00",
 "last_fair": 0.7717,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 1,
+"score": "1-2"
 },
 "intl|716d6e3f3e91c47a6efaa2e93d570533|1X2|Empate": {
 "src": "intl",
@@ -1196,8 +1196,8 @@
 "first_seen": "2026-11-07T13:11+00:00",
 "last_fair": 0.2294,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 0,
+"score": "1-0"
 },
 "intl|0d53a5dbd9d4f4716e923b97e92dfb0d|1X2|Empate": {
 "src": "intl",
@@ -1220,8 +1220,8 @@
 "first_seen": "2026-11-07T13:11+00:00",
 "last_fair": 0.2691,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 1,
+"score": "1-1"
 },
 "intl|f7b240389fa5ec055c58a48ab153dcdd|1X2|Vitória Paris Saint Germain": {
 "src": "intl",
@@ -1244,8 +1244,8 @@
 "first_seen": "2026-11-07T13:11+00:00",
 "last_fair": 0.8384,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 1,
+"score": "1-0"
 },
 "intl|a529e5762f18d97981194ec3668dc3d3|1X2|Vitória AS Monaco": {
 "src": "intl",
@@ -1268,8 +1268,8 @@
 "first_seen": "2026-11-07T13:11+00:00",
 "last_fair": 0.5804,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 0,
+"score": "1-1"
 },
 "intl|cc9731ee7796fe0d532f11ca2aa522c9|1X2|Vitória Brest": {
 "src": "intl",
@@ -1292,8 +1292,8 @@
 "first_seen": "2026-11-07T13:11+00:00",
 "last_fair": 0.3511,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 1,
+"score": "2-0"
 },
 "intl|3e9954446f26494c04c4967db523d375|1X2|Empate": {
 "src": "intl",
@@ -1316,8 +1316,8 @@
 "first_seen": "2026-11-07T13:11+00:00",
 "last_fair": 0.2906,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 0,
+"score": "0-2"
 },
 "intl|4e917e19b59093a02a0e12bcf9a5ecc4|1X2|Vitória Marseille": {
 "src": "intl",
@@ -1340,7 +1340,7 @@
 "first_seen": "2026-11-07T13:11+00:00",
 "last_fair": 0.3404,
 "last_seen": "2026-11-07T13:11+00:00",
-"result": null,
-"score": null
+"result": 1,
+"score": "1-2"
 }
 }
