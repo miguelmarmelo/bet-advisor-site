@@ -1,50 +1,6 @@
 [
 {
 "comp": "Premier League",
-"date": "2026-09-20",
-"home": "Bournemouth",
-"away": "Liverpool",
-"hg": 0,
-"ag": 1,
-"hthg": 0,
-"htag": 0,
-"corners": 6
-},
-{
-"comp": "Premier League",
-"date": "2026-09-20",
-"home": "Leeds",
-"away": "Crystal Palace",
-"hg": 0,
-"ag": 0,
-"hthg": 0,
-"htag": 0,
-"corners": 7
-},
-{
-"comp": "Premier League",
-"date": "2026-09-20",
-"home": "Man City",
-"away": "Sunderland",
-"hg": 5,
-"ag": 3,
-"hthg": 3,
-"htag": 2,
-"corners": 11
-},
-{
-"comp": "Premier League",
-"date": "2026-09-20",
-"home": "Fulham",
-"away": "Man United",
-"hg": 1,
-"ag": 1,
-"hthg": 0,
-"htag": 0,
-"corners": 16
-},
-{
-"comp": "Premier League",
 "date": "2026-10-10",
 "home": "Arsenal",
 "away": "Leeds",
@@ -482,61 +438,6 @@
 "hthg": 0,
 "htag": 0,
 "corners": 9
-},
-{
-"comp": "La Liga",
-"date": "2026-09-20",
-"home": "Getafe",
-"away": "Malaga",
-"hg": 1,
-"ag": 0,
-"hthg": 0,
-"htag": 0,
-"corners": 14
-},
-{
-"comp": "La Liga",
-"date": "2026-09-20",
-"home": "Ath Madrid",
-"away": "Real Madrid",
-"hg": 2,
-"ag": 1,
-"hthg": 0,
-"htag": 0,
-"corners": 4
-},
-{
-"comp": "La Liga",
-"date": "2026-09-20",
-"home": "La Coruna",
-"away": "Betis",
-"hg": 1,
-"ag": 1,
-"hthg": 0,
-"htag": 1,
-"corners": 16
-},
-{
-"comp": "La Liga",
-"date": "2026-09-20",
-"home": "Villarreal",
-"away": "Levante",
-"hg": 3,
-"ag": 1,
-"hthg": 1,
-"htag": 1,
-"corners": 8
-},
-{
-"comp": "La Liga",
-"date": "2026-09-20",
-"home": "Valencia",
-"away": "Sociedad",
-"hg": 2,
-"ag": 3,
-"hthg": 0,
-"htag": 1,
-"corners": 12
 },
 {
 "comp": "La Liga",
@@ -980,39 +881,6 @@
 },
 {
 "comp": "Bundesliga",
-"date": "2026-09-20",
-"home": "Leverkusen",
-"away": "RB Leipzig",
-"hg": 2,
-"ag": 0,
-"hthg": 1,
-"htag": 0,
-"corners": 15
-},
-{
-"comp": "Bundesliga",
-"date": "2026-09-20",
-"home": "Schalke 04",
-"away": "Elversberg",
-"hg": 0,
-"ag": 0,
-"hthg": 0,
-"htag": 0,
-"corners": 8
-},
-{
-"comp": "Bundesliga",
-"date": "2026-09-20",
-"home": "Paderborn",
-"away": "Hoffenheim",
-"hg": 3,
-"ag": 1,
-"hthg": 2,
-"htag": 0,
-"corners": 11
-},
-{
-"comp": "Bundesliga",
 "date": "2026-10-09",
 "home": "Dortmund",
 "away": "Werder Bremen",
@@ -1406,61 +1274,6 @@
 "hthg": 1,
 "htag": 1,
 "corners": 12
-},
-{
-"comp": "Serie A",
-"date": "2026-09-20",
-"home": "Fiorentina",
-"away": "Napoli",
-"hg": 1,
-"ag": 1,
-"hthg": 0,
-"htag": 1,
-"corners": 9
-},
-{
-"comp": "Serie A",
-"date": "2026-09-20",
-"home": "Frosinone",
-"away": "Como",
-"hg": 2,
-"ag": 0,
-"hthg": 2,
-"htag": 0,
-"corners": 15
-},
-{
-"comp": "Serie A",
-"date": "2026-09-20",
-"home": "Parma",
-"away": "Genoa",
-"hg": 2,
-"ag": 1,
-"hthg": 1,
-"htag": 0,
-"corners": 7
-},
-{
-"comp": "Serie A",
-"date": "2026-09-20",
-"home": "Juventus",
-"away": "Atalanta",
-"hg": 2,
-"ag": 0,
-"hthg": 1,
-"htag": 0,
-"corners": 9
-},
-{
-"comp": "Serie A",
-"date": "2026-09-20",
-"home": "Milan",
-"away": "Lecce",
-"hg": 3,
-"ag": 0,
-"hthg": 1,
-"htag": 0,
-"corners": 5
 },
 {
 "comp": "Serie A",
@@ -2014,39 +1827,6 @@
 },
 {
 "comp": "Ligue 1",
-"date": "2026-09-20",
-"home": "Auxerre",
-"away": "Brest",
-"hg": 2,
-"ag": 1,
-"hthg": 0,
-"htag": 1,
-"corners": 11
-},
-{
-"comp": "Ligue 1",
-"date": "2026-09-20",
-"home": "Nice",
-"away": "Lille",
-"hg": 2,
-"ag": 1,
-"hthg": 1,
-"htag": 0,
-"corners": 10
-},
-{
-"comp": "Ligue 1",
-"date": "2026-09-20",
-"home": "Marseille",
-"away": "Paris SG",
-"hg": 1,
-"ag": 2,
-"hthg": 0,
-"htag": 0,
-"corners": 10
-},
-{
-"comp": "Ligue 1",
 "date": "2026-10-09",
 "home": "Lens",
 "away": "Lyon",
@@ -2440,61 +2220,6 @@
 "hthg": 0,
 "htag": 0,
 "corners": 10
-},
-{
-"comp": "Liga Portugal",
-"date": "2026-09-20",
-"home": "Estrela",
-"away": "Academico Viseu",
-"hg": 0,
-"ag": 2,
-"hthg": 0,
-"htag": 2,
-"corners": 7
-},
-{
-"comp": "Liga Portugal",
-"date": "2026-09-20",
-"home": "Guimaraes",
-"away": "Moreirense",
-"hg": 1,
-"ag": 1,
-"hthg": 0,
-"htag": 0,
-"corners": 3
-},
-{
-"comp": "Liga Portugal",
-"date": "2026-09-20",
-"home": "Estoril",
-"away": "Casa Pia",
-"hg": 1,
-"ag": 2,
-"hthg": 0,
-"htag": 0,
-"corners": 11
-},
-{
-"comp": "Liga Portugal",
-"date": "2026-09-20",
-"home": "Santa Clara",
-"away": "Sp Braga",
-"hg": 0,
-"ag": 0,
-"hthg": 0,
-"htag": 0,
-"corners": 10
-},
-{
-"comp": "Liga Portugal",
-"date": "2026-09-20",
-"home": "Porto",
-"away": "Benfica",
-"hg": 3,
-"ag": 1,
-"hthg": 1,
-"htag": 0,
-"corners": 6
 },
 {
 "comp": "Liga Portugal",
